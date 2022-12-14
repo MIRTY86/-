@@ -1,0 +1,15 @@
+C:\Users\DimaL.DESTOP-ALENA\OneDrive\Рабочий стол\Exemple\Project_001_HelloConsole\bin\Debug\net6.0\Project_001_HelloConsole.exe
+C:\Users\DimaL.DESTOP-ALENA\OneDrive\Рабочий стол\Exemple\Project_001_HelloConsole\bin\Debug\net6.0\Project_001_HelloConsole.deps.json
+C:\Users\DimaL.DESTOP-ALENA\OneDrive\Рабочий стол\Exemple\Project_001_HelloConsole\bin\Debug\net6.0\Project_001_HelloConsole.runtimeconfig.json
+C:\Users\DimaL.DESTOP-ALENA\OneDrive\Рабочий стол\Exemple\Project_001_HelloConsole\bin\Debug\net6.0\Project_001_HelloConsole.dll
+C:\Users\DimaL.DESTOP-ALENA\OneDrive\Рабочий стол\Exemple\Project_001_HelloConsole\bin\Debug\net6.0\Project_001_HelloConsole.pdb
+C:\Users\DimaL.DESTOP-ALENA\OneDrive\Рабочий стол\Exemple\Project_001_HelloConsole\obj\Debug\net6.0\Project_001_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\DimaL.DESTOP-ALENA\OneDrive\Рабочий стол\Exemple\Project_001_HelloConsole\obj\Debug\net6.0\Project_001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DimaL.DESTOP-ALENA\OneDrive\Рабочий стол\Exemple\Project_001_HelloConsole\obj\Debug\net6.0\Project_001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\DimaL.DESTOP-ALENA\OneDrive\Рабочий стол\Exemple\Project_001_HelloConsole\obj\Debug\net6.0\Project_001_HelloConsole.AssemblyInfo.cs
+C:\Users\DimaL.DESTOP-ALENA\OneDrive\Рабочий стол\Exemple\Project_001_HelloConsole\obj\Debug\net6.0\Project_001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\DimaL.DESTOP-ALENA\OneDrive\Рабочий стол\Exemple\Project_001_HelloConsole\obj\Debug\net6.0\Project_001_HelloConsole.dll
+C:\Users\DimaL.DESTOP-ALENA\OneDrive\Рабочий стол\Exemple\Project_001_HelloConsole\obj\Debug\net6.0\refint\Project_001_HelloConsole.dll
+C:\Users\DimaL.DESTOP-ALENA\OneDrive\Рабочий стол\Exemple\Project_001_HelloConsole\obj\Debug\net6.0\Project_001_HelloConsole.pdb
+C:\Users\DimaL.DESTOP-ALENA\OneDrive\Рабочий стол\Exemple\Project_001_HelloConsole\obj\Debug\net6.0\Project_001_HelloConsole.genruntimeconfig.cache
+C:\Users\DimaL.DESTOP-ALENA\OneDrive\Рабочий стол\Exemple\Project_001_HelloConsole\obj\Debug\net6.0\ref\Project_001_HelloConsole.dll
